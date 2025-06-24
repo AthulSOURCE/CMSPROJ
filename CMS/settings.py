@@ -32,6 +32,11 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'CMS',
+    'doctor',
+    'labtechnician',
+    'pharmacist',
+    'reception',
+    'backend',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
