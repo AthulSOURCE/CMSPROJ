@@ -1,0 +1,16 @@
+# Python Cache files
+
+
+_pycache_/
+
+#virutal environment
+
+myenv/
+
+
+
+#ignore migrations file
+*/migrations/.py
+
+#
+
