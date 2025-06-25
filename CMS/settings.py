@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'reception',
     'backend',
     'newadmin',
-    'auth',
+    #'auth',
     'rest_framework',
     'django.contrib.admin',
     'django.contrib.auth',
